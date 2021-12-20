@@ -1,0 +1,19 @@
+{
+    "discord": [
+        "JOIN",
+        "LEAVE",
+        "SERVER SPAM",
+        "DM SPAM",
+        "FRIEND REQUEST",
+        "REPORT",
+        "BRUTEFORCE",
+        "CHECKER"
+    ],
+    "checkers": [
+        "INSTAGRAM",
+        "APPLE",
+        "SPOTIFY",
+        "EPICGAMES",
+        "LIEFERANDO"
+    ]
+}
